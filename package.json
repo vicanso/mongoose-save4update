@@ -11,7 +11,7 @@
     "email": "vicansocanbico@gmail.com"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=6.0.0"
   },
   "main": "index.js",
   "license": "MIT",

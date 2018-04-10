@@ -22,8 +22,6 @@ module.exports = function saveForUpdate(schema, options = {}) {
     }
     // eslint-disable-next-line
     const modify = this.$__.activePaths.states.modify;
-    // eslint-disable-next-line
-    const id = this._id.toString();
     const current = this.toJSON();
     const updated = {};
     const original = {};
