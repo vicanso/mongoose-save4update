@@ -4,7 +4,7 @@ Get the data(new/old) of update fields by save function
 
 [![Build Status](https://travis-ci.org/vicanso/mongoose-save4update.svg?branch=master)](https://travis-ci.org/vicanso/mongoose-save4update)
 [![npm](http://img.shields.io/npm/v/mongoose-save4update.svg?style=flat-square)](https://www.npmjs.org/package/mongoose-save4update)
-[![npm](http://img.shields.io/npm/v/mongoose-save4update.svg?style=flat-square)](https://www.npmjs.org/package/mongoose-save4update)
+[![Github Releases](https://img.shields.io/npm/dm/mongoose-save4update.svg?style=flat-square)](https://github.com/vicanso/mongoose-save4update)
 
 ## API
 
